@@ -2,4 +2,4 @@
 
 <iframe src="philly_UA_gardens_bikenet.html" height="1200" width="105%"></iframe>
 
-/assets/images/reachable nodes.png
+![This is an image](/assets/images/reachable nodes.png)
