@@ -1,2 +1,1 @@
-# finalprojectphilly
-Urban agriculture programs and community gardens in Philadelphia and their (e)bike accessibility
+# Urban Agriculture Programs and Community Gardens in Philadelphia and Their (e)Bike Accessibility
